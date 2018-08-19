@@ -15,11 +15,11 @@ tags: workthrough, programming, tools
 
 ----
 
-- [Chapter 01: The Vim Way](/notes/pvim/01)
-- [Chapter 02: Normal Mode](/notes/pvim/02)
-- [Chapter 03: Insert Mode](/notes/pvim/03)
-- [Chapter 04: Visual Mode](/notes/pvim/04)
-- [Chapter 05: Command-Line Mode](/notes/pvim/05)
+- [Chapter 01: The Vim Way](/projects/pvim/01)
+- [Chapter 02: Normal Mode](/projects/pvim/02)
+- [Chapter 03: Insert Mode](/projects/pvim/03)
+- [Chapter 04: Visual Mode](/projects/pvim/04)
+- [Chapter 05: Command-Line Mode](/projects/pvim/05)
 - Chapter 06: Manage Multiple Files
 - Chapter 07: Open Files and Save them to Disk
 - Chapter 08: Navigate Inside Files with Motions
